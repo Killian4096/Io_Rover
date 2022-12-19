@@ -1,0 +1,14 @@
+#ifndef IO_ROVER_CONFIG
+#define IO_ROVER_CONFIG
+
+
+//USART
+#define BAUD_FACTOR 103
+
+//OSEPP SHIELD
+#define SERVO_1_MIN_PWM 97
+#define SERVO_1_MAX_PWM 627
+#define SERVO_2_MIN_PWM 187
+#define SERVO_2_MAX_PWM 630
+
+#endif

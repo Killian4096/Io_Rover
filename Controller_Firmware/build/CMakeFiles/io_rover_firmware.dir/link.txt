@@ -1,0 +1,1 @@
+avr-gcc -mmcu=atmega328p CMakeFiles/io_rover_firmware.dir/include/OSEPP_Motor_Shield/OSEPP_Motor_Shield.c.o CMakeFiles/io_rover_firmware.dir/include/USART/USART.c.o CMakeFiles/io_rover_firmware.dir/src/Io_Firmware_Controller.c.o -o io_rover_firmware.elf 

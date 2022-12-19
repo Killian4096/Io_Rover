@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../config/config.h
+
+/home/technetium/Documents/Projects/Io_Rover/Controller_Firmware/include/OSEPP_Motor_Shield/OSEPP_Motor_Shield.c
+avr/io.h
+-
+stdint.h
+-
+config.h
+-
+OSEPP_Motor_Shield.h
+/home/technetium/Documents/Projects/Io_Rover/Controller_Firmware/include/OSEPP_Motor_Shield/OSEPP_Motor_Shield.h
+
+/home/technetium/Documents/Projects/Io_Rover/Controller_Firmware/include/OSEPP_Motor_Shield/OSEPP_Motor_Shield.h
+stdint.h
+-
+
